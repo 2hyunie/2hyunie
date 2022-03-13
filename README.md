@@ -1,16 +1,23 @@
-### Hi there 👋
+![/header.png](https://github.com/2hyunie/2hyunie/blob/main/header.png)
 
-<!--
-**2hyunie/2hyunie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am currently a graduate student in the Quantitative Methods in the Social Sciences (QMSS) program at Columbia University. I have a bachelor's degree in Geography and I am interested in spatial data analysis and data visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can find me on [![LinkedIn][1.1]][1] and view my CV [here](https://read.cv/yihyun).
+
+<!-- icons -->
+
+[1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
+
+<!-- links to social media -->
+
+[1]: https://www.linkedin.com/in/2hyunkim/
+
+## Stats
+
+[![Yi Hyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=2hyunie&theme=vue)](https://github.com/2hyunie/github-readme-stats)
+
+![](https://img.shields.io/badge/Code-R-informational?style=flat-square&logo=<LOGO_NAME>&logoColor=white&color=green&labelColor=yellowgreen)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=<LOGO_NAME>&logoColor=white&color=green&labelColor=yellowgreen)
+![](https://img.shields.io/badge/Software-QGIS-informational?style=flat-square&logo=<LOGO_NAME>&logoColor=white&color=green&labelColor=yellowgreen)
