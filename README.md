@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am currently a graduate student in the Quantitative Methods in the Social Sciences (QMSS) program at Columbia University. I have a bachelor's degree in Geography and I am interested in spatial data analysis and data visualization.
+I am a graduate student in the Quantitative Methods in the Social Sciences (QMSS) program at Columbia University. I have a bachelor's degree in Geography from the University of Cambridge and I am interested in spatial data analysis, data visualization, and graphic design.
 
 You can find me on [![LinkedIn][1.1]][1] and view my CV [here](https://read.cv/yihyun).
 
@@ -20,4 +20,7 @@ You can find me on [![LinkedIn][1.1]][1] and view my CV [here](https://read.cv/y
 
 ![](https://img.shields.io/badge/Code-R-informational?style=flat-square&logo=<LOGO_NAME>&logoColor=white&color=green&labelColor=yellowgreen)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=<LOGO_NAME>&logoColor=white&color=green&labelColor=yellowgreen)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat-square&logo=<LOGO_NAME>&logoColor=white&color=green&labelColor=yellowgreen)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat-square&logo=<LOGO_NAME>&logoColor=white&color=green&labelColor=yellowgreen)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=<LOGO_NAME>&logoColor=white&color=green&labelColor=yellowgreen)
 ![](https://img.shields.io/badge/Software-QGIS-informational?style=flat-square&logo=<LOGO_NAME>&logoColor=white&color=green&labelColor=yellowgreen)
