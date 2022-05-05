@@ -14,6 +14,10 @@ You can find me on [![LinkedIn][1.1]][1] and view my CV [here](https://read.cv/y
 
 [1]: https://www.linkedin.com/in/2hyunkim/
 
+## Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2hyunie&layout=compact&theme=vue)](https://github.com/2hyunie/github-readme-stats)
+
 ## Stats
 
 [![Yi Hyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=2hyunie&theme=vue)](https://github.com/2hyunie/github-readme-stats)
