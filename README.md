@@ -4,7 +4,7 @@
 
 I am a graduate student in the Quantitative Methods in the Social Sciences (QMSS) program at Columbia University. I have a bachelor's degree in Geography from the University of Cambridge and I am interested in spatial data analysis, data visualization, and graphic design.
 
-You can find me on [![LinkedIn][1.1]][1] and view my CV [here](https://read.cv/yihyun).
+You can find me on [![LinkedIn][1.1]][1] and learn more about me [here](https://tinyurl.com/yihyun).
 
 <!-- icons -->
 
